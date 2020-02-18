@@ -4,3 +4,5 @@
 Course name: Advanced Natural Resource Economics   
 Time: Spring 2020   
 Level: Graduate   
+
+
