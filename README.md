@@ -3,6 +3,7 @@
 ## 1. UI_ACE510   
 Course name: Advanced Natural Resource Economics   
 Time: Spring 2020   
-Level: Graduate   
+Level: Graduate 
+Place: University of Illinois at Urbana-Champaign   
 
 
